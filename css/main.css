@@ -1,0 +1,123 @@
+.imagesleft{
+    width: 400px;
+    float: left;
+    border: 10px solid cadetblue;
+    margin: 0px 10px 0px 0px;
+}
+
+.imagesright{
+    width: 400px;
+    float: right;
+    border: 10px solid cadetblue;
+    margin: 0px 0px 0px 10px;
+}
+
+header{
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.28);
+    max-width: 1020px;
+    min-width: 102px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+h1{
+        padding: 5px 0px 5px 0px;
+}
+
+h2{
+    text-align: center;
+}
+
+body{
+    background-image: url("../img/back.jpg");
+    background-repeat: repeat-y;
+    background-attachment: fixed;
+    background-size: 100%;
+}
+
+h3{
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+.section1{
+    background-color: rgba(255, 255, 255, 0.28);
+    padding: 10px;
+    max-width: 1000px;
+    min-width: 100px;
+    text-align: justify;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 30px;
+}
+
+p{
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+.specsright{
+    max-width: 300px;
+    min-width: 300px;
+    text-align: justify;
+    float: right;
+    border: 10px solid darkcyan;
+    padding: 5px 5px 0px 5px;
+    background-color: rgba(17, 255, 0, 0.27);
+    margin: 0px 0px 0px 10px;
+    color: #1425dc;
+}
+
+.specsleft{
+    max-width: 300px;
+    min-width: 300px;
+    text-align: justify;
+    float: left;
+    border: 10px solid darkcyan;
+    padding: 5px 5px 0px 5px;
+    background-color: rgba(17, 255, 0, 0.27);
+    margin: 0px 10px 0px 0px;
+    color: #1425dc;
+}
+
+.imageslinks{
+    max-width: 100px;
+    min-width: 100px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+footer{
+    text-align: center;
+    color: lightgray;
+    font-size: 12px;
+}
+
+li{
+    margin-bottom: 10px;
+}
+
+.linktop{
+    max-width: 100px;
+    text-align: right;
+    margin-left: auto;
+}
+
+.listlinks{
+    display: inline;
+    margin-right: 100px;
+    list-style-type: none;
+}
+
+nav{
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.28);
+    max-width: 1020px;
+    min-width: 102px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 20px;
+    padding: 1px 0px 1px 0px;
+}
